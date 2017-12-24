@@ -36,6 +36,7 @@ details.
 1. Install the MySQL server by using the Ubuntu package manager:
 
     sudo apt-get update
+    
     sudo apt-get install mysql-server
 
    The installer installs MySQL and all dependencies.
